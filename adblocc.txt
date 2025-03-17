@@ -379,6 +379,13 @@
 0.0.0.0 domainfwd.com
 0.0.0.0 domainfwding.com
 0.0.0.0 dotzup.com
+##Doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+##
 0.0.0.0 dougmlee.com
 0.0.0.0 dowdenphotography.com
 0.0.0.0 down.feiyang163.com
@@ -2187,3 +2194,16 @@
 0.0.0.0 zr1.zeroredirect11.com
 0.0.0.0 zs1.zeroredirect1.com
 0.0.0.0 zuverink.net
+# [Yandex][AS13238][178.154.131.0 - 178.154.131.255]
+# 0.0.0.0 yastatic.net #[affects Yandex Mail]
+# [Yandex][AS13238][213.180.193.0 - 213.180.193.255]
+0.0.0.0 an.yandex.ru
+# [Yandex][AS13238][87.250.250.0 - 87.250.250.255]
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 bs.yandex.ru
+0.0.0.0 bs-meta.yandex.ru
+# 0.0.0.0 clck.yandex.ru
+# 0.0.0.0 grade.market.yandex.ru
+0.0.0.0 informer.yandex.ru
+0.0.0.0 mc.yandex.ru
+0.0.0.0 yandexadexchange.net
